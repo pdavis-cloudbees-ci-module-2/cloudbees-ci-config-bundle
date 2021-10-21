@@ -7,7 +7,7 @@ cloudbees-slack-integration:
       jenkins: "paul-davis-sp"
       optedIn: true
       scmId: "paul-davis-sp"
-      slack: "REPLACE_USER_EMAIL"
+      slack: "paul.davis@sailpoint.com"
       slackWorkspace: "T010A455W77"
 cloudbees-pipeline-policies:
   config:
